@@ -1,25 +1,183 @@
-<h1 align="center">Hi 👋, I'm Nrup Parikh</h1>
-<h3 align="center">A passionate Software Engineer from India! I am keen in learning and developing applications in Kotlin for Android, also had a chance sometimes to write Java based applications. I try to follow the best practices and improve my coding every day as a senior developer and a team member. I do also like to teach and learn from other developers.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nrup2021&label=Profile%20views&color=0e75b6&style=plastic" alt="nrup2021" /> </p>
+# 👋 Hi, I'm Nrup Parikh
 
-<br>
+### Senior Software Engineer | Android & Flutter Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nrup2021" alt="nrup2021" /></a> </p>
+**11+ Years of Experience in Mobile Application Development**
 
-<br>
+Building reliable, scalable, and user-focused mobile applications with modern software engineering practices.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+[![GitHub](https://img.shields.io/badge/GitHub-Nrup2021-181717?style=for-the-badge&logo=github)](https://github.com/Nrup2021)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nrup-parikh-01479b1b)
+![Profile Views](https://komarev.com/ghpvc/?username=nrup2021&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nrup2021&show_icons=true&theme=dark&locale=en&layout=compact" alt="nrup2021" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nrup2021&show_icons=true&theme=dark&locale=en" alt="nrup2021" /></p>
+## 🚀 About Me
 
+Senior Software Engineer with **11+ years of experience in mobile application development**, specializing in native Android development using Kotlin and Java and cross-platform development using Flutter and Dart.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrup2021&theme=dark" alt="nrup2021" /></p>
+Experienced in designing, developing, maintaining, and enhancing mobile applications using modern architecture patterns, REST API integration, secure authentication, local databases, and Firebase services.
 
+Passionate about writing clean, maintainable code, improving application performance, solving technical challenges, and continuously learning emerging technologies.
 
+- 📱 **Primary expertise:** Android, Kotlin, Java, Flutter, and Dart
+- 🏗️ **Architecture:** MVVM, Android Jetpack, and maintainable application design
+- 🔌 **Integration:** REST APIs, Firebase, authentication, and third-party SDKs
+- ⚡ **Asynchronous programming:** Kotlin Coroutines, Flow, and StateFlow
+- 🧪 **Software quality:** Debugging, testing fundamentals, and performance monitoring
+- 🔄 **Development workflows:** Git, GitHub Actions, CI/CD, and application releases
+- 🤖 **Additional interests:** AI/ML integration and AI-powered mobile applications
+- 📍 **Location:** Ahmedabad, Gujarat, India
 
-> You want to keep growing towards the sun instead of withering on the vine. 
+---
+
+## 💻 Technical Skills
+
+### 📱 Mobile Application Development
+
+<p>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+</p>
+
+- Android SDK, Android Studio, XML layouts, Activities, Fragments, and lifecycle management
+- Android Jetpack, ViewModel, LiveData, Data Binding, Navigation, and WorkManager
+- Flutter UI development, responsive layouts, navigation, and cross-platform development
+- React Native fundamentals, Expo, TypeScript, and React Navigation
+
+### 🏛️ Architecture and State Management
+
+<p>
+<img src="https://img.shields.io/badge/MVVM-Architecture-546E7A?style=for-the-badge" alt="MVVM"/>
+<img src="https://img.shields.io/badge/Coroutines-Asynchronous-7F52FF?style=for-the-badge" alt="Coroutines"/>
+<img src="https://img.shields.io/badge/Flow%20%26%20StateFlow-Reactive-00897B?style=for-the-badge" alt="Flow and StateFlow"/>
+<img src="https://img.shields.io/badge/Riverpod-State_Management-00A6A6?style=for-the-badge" alt="Riverpod"/>
+<img src="https://img.shields.io/badge/GetX-State_Management-8E44AD?style=for-the-badge" alt="GetX"/>
+</p>
+
+- Model-View-ViewModel (MVVM) architecture
+- Separation of concerns, reusable components, and maintainable code
+- Kotlin Coroutines, Flow, and StateFlow
+- Flutter state management using Riverpod and GetX
+- Jetpack Compose fundamentals and modern UI development concepts
+
+### 🔌 APIs, Networking, and Databases
+
+<p>
+<img src="https://img.shields.io/badge/REST_API-Integration-009688?style=for-the-badge" alt="REST API"/>
+<img src="https://img.shields.io/badge/Retrofit-Networking-48A868?style=for-the-badge" alt="Retrofit"/>
+<img src="https://img.shields.io/badge/OkHttp-HTTP_Client-333333?style=for-the-badge" alt="OkHttp"/>
+<img src="https://img.shields.io/badge/Dio-Flutter_HTTP-02569B?style=for-the-badge" alt="Dio"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Room-Database-4285F4?style=for-the-badge" alt="Room Database"/>
+</p>
+
+- RESTful API integration, JSON parsing, Retrofit, OkHttp, and Dio
+- SQLite, Room Database, SharedPreferences, and DataStore
+- Local data persistence, offline capabilities, and data synchronization
+- API error handling, asynchronous requests, and client-server communication
+
+### ☁️ Firebase and Application Services
+
+<p>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Cloud Firestore"/>
+<img src="https://img.shields.io/badge/FCM-Push_Notifications-4285F4?style=for-the-badge" alt="Firebase Cloud Messaging"/>
+<img src="https://img.shields.io/badge/Crashlytics-Monitoring-DB4437?style=for-the-badge" alt="Crashlytics"/>
+</p>
+
+- Firebase Authentication, Cloud Firestore, and Remote Config
+- Firebase Cloud Messaging (FCM), Analytics, and Crashlytics
+- Secure authentication, AES encryption/decryption, and payment gateway integration
+- Google Maps, GPS, camera integration, multimedia, and third-party SDKs
+
+### ⚙️ Tools, Testing, and CI/CD
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
+</p>
+
+- Version control, branching, and collaborative development using Git
+- GitHub Actions and CI/CD workflow fundamentals
+- Unit testing fundamentals using JUnit and MockK
+- Debugging, crash analysis, error handling, and performance monitoring
+- Build configuration, release preparation, and Play Store/App Store deployment workflows
+
+### 🤖 Additional Technologies and AI/ML
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+<img src="https://img.shields.io/badge/Google_ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ML Kit"/>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API"/>
+</p>
+
+- Python fundamentals, Flask, Pandas, NumPy, and scikit-learn
+- AI/ML integration concepts for mobile applications
+- Gemini API and Google ML Kit
+- AI-assisted software development and LLM integration concepts
+
+---
+
+## 🛠️ Professional Experience and Engineering Practices
+
+My professional experience covers the mobile application development lifecycle, from understanding requirements and designing application architecture to implementation, testing, maintenance, and release.
+
+| Area | Technical Experience |
+|---|---|
+| Application Development | Native Android and cross-platform mobile development |
+| Programming Languages | Kotlin, Java, Dart, and Python fundamentals |
+| Architecture | MVVM, Android Jetpack, reusable components |
+| API Integration | REST APIs, JSON, Retrofit, OkHttp, Dio |
+| Data Management | SQLite, Room, Firebase, offline synchronization |
+| Asynchronous Programming | Coroutines, Flow, StateFlow |
+| Application Security | Authentication, encryption, payment integrations |
+| Quality Engineering | Debugging, testing fundamentals, crash analysis |
+| CI/CD | Git, GitHub Actions, automated workflow fundamentals |
+| Software Delivery | Build management, release preparation, deployment |
+| Collaboration | Requirements analysis, team coordination, technical communication |
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nrup2021&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrup2021&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=nrup2021&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+<sub>Note: Statistics are generated by external services and may occasionally be unavailable. Language statistics represent detected repository contents rather than overall professional proficiency.</sub>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+I'm always interested in connecting with fellow developers and professionals passionate about Android, Flutter, mobile architecture, and emerging technologies.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Nrup2021)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nrup-parikh-01479b1b)
+
+### 💡 Keep Learning. Keep Building. Keep Growing. 🚀
+
+</div>
