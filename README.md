@@ -19,3 +19,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrup2021&theme=dark" alt="nrup2021" /></p>
+
+
+
+> You want to keep growing towards the sun instead of withering on the vine. 
