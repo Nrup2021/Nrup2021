@@ -181,8 +181,8 @@ I'm always interested in connecting with fellow developers and professionals pas
 ### 💡 Keep Learning. Keep Building. Keep Growing. 🚀
 
 
-### For decades, we taught humans to speak the language of machines. Now, we’re teaching machines to speak the language of humans. Perhaps the greatest revolution in computing is not making humans understand technology, but making technology understand us.
-
-— A reflection on the evolution of computing and AI
+> “For decades, we taught humans to speak the language of machines. Now, we’re teaching machines to speak the language of humans. Perhaps the greatest revolution in computing is not making humans understand technology, but making technology understand us.”
+>
+> — *A reflection on the evolution of computing and AI*
 
 </div>
