@@ -30,7 +30,7 @@ Passionate about writing clean, maintainable code, improving application perform
 - ⚡ **Asynchronous programming:** Kotlin Coroutines, Flow, and StateFlow
 - 🧪 **Software quality:** Debugging, testing fundamentals, and performance monitoring
 - 🔄 **Development workflows:** Git, GitHub Actions, CI/CD, and application releases
-- 🤖 **Additional interests:** AI/ML integration and AI-powered mobile applications
+- 🤖 **Additional interests:** AI/ML integration and AI-powered mobile applications, Prompt Engineering, LLM, RAG pipeline, VectorDB, Chroma DB, LangChain, LlamaIndex
 - 📍 **Location:** Ahmedabad, Gujarat, India
 
 ---
@@ -179,5 +179,10 @@ I'm always interested in connecting with fellow developers and professionals pas
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nrup-parikh-01479b1b)
 
 ### 💡 Keep Learning. Keep Building. Keep Growing. 🚀
+
+
+### For decades, we taught humans to speak the language of machines. Now, we’re teaching machines to speak the language of humans. Perhaps the greatest revolution in computing is not making humans understand technology, but making technology understand us.
+
+— A reflection on the evolution of computing and AI
 
 </div>
